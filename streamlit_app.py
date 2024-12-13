@@ -83,7 +83,7 @@ content_data = {
             "https://i.ibb.co/J2zVZmg/images-2.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
+            "https://twitter.com/ngntrtr",
             "https://youtu.be/6zoxXfUTeug?feature=shared",
             "https://youtu.be/iYJByhrbea4?feature=shared"
         ],
