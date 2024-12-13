@@ -79,7 +79,7 @@ content_data = {
     labels[0]: {
         'images': [
             "https://i.ibb.co/J2zVZmg/images-2.jpg",
-            "https://i.ibb.co/t2CW025/9bzm-OSH4q-QGYGc-Lqk-IIWWNXZAhcmbr-Qw-Tz-Vt-Vq-Chua-Xdk9k-Kc0s-Eiwd8x-Mlmk-WHe-KLFYd-Pik-Fm16-Rl-LFF.webp,
+            "https://i.ibb.co/t2CW025/9bzm-OSH4q-QGYGc-Lqk-IIWWNXZAhcmbr-Qw-Tz-Vt-Vq-Chua-Xdk9k-Kc0s-Eiwd8x-Mlmk-WHe-KLFYd-Pik-Fm16-Rl-LFF.webp",
             "https://i.ibb.co/ZgnbZ5f/5-Bl-YE2-B-48-Qm-DTXKOTHoc2l6-K42-Sg63apgc-F-O7l-Ngi-KEt-AOtae-jiu-Noe-JAy-Vsy-PFn2s333-Jshx-SJ-Mk-Y.webp"
         ],
         'videos': [
