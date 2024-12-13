@@ -9,7 +9,8 @@ import gdown
 file_id = '1KSzzJDdxIQ39TBDTfyObI2m80QhY5nm-'
 
 # Google Drive에서 파일 다운로드 함수
-@st.cache_data(allow_output_mutation=True)
+@st.cache_data
+
 def load_model_from_drive(file_id):
     url = f'https://drive.google.com/uc?id={file_id}'
     output = 'model.pkl'
