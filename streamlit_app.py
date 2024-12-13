@@ -78,8 +78,8 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label1_Image1",
-            "https://via.placeholder.com/300?text=Label1_Image2",
+            "https://i.ibb.co/J2zVZmg/images-2.jpg",
+            "https://i.ibb.co/0hbDp0n/images-1.jpg",
             "https://via.placeholder.com/300?text=Label1_Image3"
         ],
         'videos': [
@@ -88,7 +88,7 @@ content_data = {
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "감자전은 감자로 만들어진다는 사실을 알고계셨나요?",
+            "귀여워워?",
             "Label 1 관련 두 번째 텍스트 내용입니다.",
             "Label 1 관련 세 번째 텍스트 내용입니다."
         ]
