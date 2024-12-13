@@ -79,16 +79,16 @@ content_data = {
     labels[0]: {
         'images': [
             "https://i.ibb.co/J2zVZmg/images-2.jpg",
-            "https://i.ibb.co/0hbDp0n/images-1.jpg",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+            "https://i.ibb.co/t2CW025/9bzm-OSH4q-QGYGc-Lqk-IIWWNXZAhcmbr-Qw-Tz-Vt-Vq-Chua-Xdk9k-Kc0s-Eiwd8x-Mlmk-WHe-KLFYd-Pik-Fm16-Rl-LFF.webp,
+            "https://i.ibb.co/ZgnbZ5f/5-Bl-YE2-B-48-Qm-DTXKOTHoc2l6-K42-Sg63apgc-F-O7l-Ngi-KEt-AOtae-jiu-Noe-JAy-Vsy-PFn2s333-Jshx-SJ-Mk-Y.webp"
         ],
         'videos': [
-            "https://youtu.be/6zoxXfUTeug?feature=shared",
+            "https://youtu.be/iYJByhrbea4?feature=shared",
             "https://youtu.be/6zoxXfUTeug?feature=shared",
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "귀여워",
+            "비누로 농담곰 만들기",
             "농담곰과 함께 공부하기!",
             "Label 1 관련 세 번째 텍스트 내용입니다."
         ]
