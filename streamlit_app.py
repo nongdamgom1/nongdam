@@ -84,12 +84,12 @@ content_data = {
         ],
         'videos': [
             "https://youtu.be/6zoxXfUTeug?feature=shared",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+            "https://youtu.be/6zoxXfUTeug?feature=shared",
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "귀여워워?",
-            "Label 1 관련 두 번째 텍스트 내용입니다.",
+            "귀여워",
+            "농담곰과 함께 공부하기!",
             "Label 1 관련 세 번째 텍스트 내용입니다."
         ]
     },
