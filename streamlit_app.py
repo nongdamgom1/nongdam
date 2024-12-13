@@ -96,18 +96,18 @@ content_data = {
     labels[1]: {
         'images': [
             "https://i.ibb.co/gg7sptV/llm6teb-R7xwtny-Xz-Wqp-CFKFmti-EL8-Fh-Ol-Dd1-Nzl-Vbdjtjd27roi-JMtqorl-RMHm6b-KSS5s-Jdr-V-3xm-Ggdhi-O.webp",
-            "https://via.placeholder.com/300?text=Label2_Image2",
-            "https://via.placeholder.com/300?text=Label2_Image3"
+            "https://i.ibb.co/gtxGTrn/1.jpg",
+            "https://i.ibb.co/7zw22XB/images-3.jpg"
         ],
         'videos': [
             "https://youtu.be/VbFBJ8XzmTs?feature=shared",
             "https://youtu.be/KuKYxjVw3V4?feature=shared",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+            "https://youtu.be/eDpdmjELIhw?feature=shared"
         ],
         'texts': [
             "시나모롤은 먼 하늘 구름 위에서 태어난 강아지예요. 하늘에서 하늘하늘 날아오던 시나모롤을 '카페 시나몬'의 주인 누나가 발견해 함께 살게 되었어요. 꼬리가 마치 시나몬롤처럼 돌돌 말려있어서 '시나몬' 이라고 이름이 붙여졌어요. 특기는 큰 귀를 파닥파닥 해서 하늘을 나는 일! 얌전하지만 붙임성이 좋아 손님들의 무릎 위에서 자버리기도 한답니다. (산리오 코리아 페이지의 시나모롤 소개글)",
-            "Label 2 관련 두 번째 텍스트 내용입니다.",
-            "Label 2 관련 세 번째 텍스트 내용입니다."
+            "시나모롤의 공식 유튜브, 애니메이션",
+            "시나모롤 뮤직비디오도 있다! 이 노래는 세븐틴 노래의 커버곡."
         ]
     },
     labels[2]: {
