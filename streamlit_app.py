@@ -112,7 +112,7 @@ content_data = {
     },
     labels[2]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label3_Image1",
+            "https://i.ibb.co/d2T4cfk/Lh-Ic0-Y0-FXbwll-WQp-Yykfg-PZ8-Me1qa-nx21-Bs-HSZPs-Dn-HHsf-OVww-HFw-w-X8ba-Vb37-RIOuk-OHnbc-DEva0a8y.webp",
             "https://via.placeholder.com/300?text=Label3_Image2",
             "https://via.placeholder.com/300?text=Label3_Image3"
         ],
@@ -122,7 +122,7 @@ content_data = {
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "고도로 발달한 팬케이크는 호떡과 구분할 수 없다.",
+            "치이카와는 먼작귀(먼가 작고 기여운 녀석의 줄임말)의 주요 캐릭터 3인방 중 하나이며 그 중에서도 주인공 격 캐릭터이다. 햄스터 캐릭터로, 처음에는 농담곰 계정에 명확한 배경 설정없이 뭔가 작고 귀여운 녀석이 되고 싶다는 소망을 담은 내용의 낙서(https://x.com/ngntrtr/status/859037354920624128)로 첫 등장했다.",
             "Label 3 관련 두 번째 텍스트 내용입니다.",
             "Label 3 관련 세 번째 텍스트 내용입니다."
         ]
