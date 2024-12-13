@@ -95,17 +95,17 @@ content_data = {
     },
     labels[1]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
+            "https://i.ibb.co/gg7sptV/llm6teb-R7xwtny-Xz-Wqp-CFKFmti-EL8-Fh-Ol-Dd1-Nzl-Vbdjtjd27roi-JMtqorl-RMHm6b-KSS5s-Jdr-V-3xm-Ggdhi-O.webp",
             "https://via.placeholder.com/300?text=Label2_Image2",
             "https://via.placeholder.com/300?text=Label2_Image3"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+            "https://youtu.be/VbFBJ8XzmTs?feature=shared",
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "콘치즈가 최고로 맛있다!",
+            "시나모롤은 먼 하늘 구름 위에서 태어난 강아지예요. 어느 날 하늘에서 하늘하늘 날아오던 시나모롤을 '카페 시나몬'의 주인 누나가 발견해 함께 살게 되었어요. 꼬리가 마치 시나몬롤처럼 돌돌 말려있어서 '시나몬' 이라고 이름이 붙여졌어요. 지금은 카페를 대표하는 간판 강아지로 활약 중이지요! 특기는 큰 귀를 파닥파닥 해서 하늘을 나는 일! 얌전하지만 붙임성이 좋아 손님들의 무릎 위에서 자버리기도 한답니다. (산리오 코리아 페이지의 시나모롤 소개글)",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
