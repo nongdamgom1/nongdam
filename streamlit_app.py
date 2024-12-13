@@ -83,14 +83,14 @@ content_data = {
             "https://i.ibb.co/J2zVZmg/images-2.jpg"
         ],
         'videos': [
-            "https://twitter.com/ngntrtr",
+            "https://youtu.be/DAFxciBIIfI?feature=shared",
             "https://youtu.be/6zoxXfUTeug?feature=shared",
             "https://youtu.be/iYJByhrbea4?feature=shared"
         ],
         'texts': [
-            "Label 1 관련 세 번째 텍스트 내용입니다.",
+            "일본의 크리에이터 나가노(ナガノ) 작가의 캐릭터. https://twitter.com/ngntrtr 작가의 sns계정에서 일러스트와 만화를 볼 수 있다.",
             "농담곰과 함께 공부하기!",
-            "비누로 농담곰 만들기"
+            "비누로 농담곰 만들기!"
         ]
     },
     labels[1]: {
